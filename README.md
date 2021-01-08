@@ -1,4 +1,5 @@
 # WeatherApp
+Shows up the temperature of the Cities all around the world.
 
 A new Flutter project.
 
